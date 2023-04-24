@@ -31,7 +31,7 @@ Our future objectives for this project include enhancing the detection range by 
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/26748554/233776632-732e60ba-fb29-4c64-b812-56d6f274c6c1.png" width ="250" height="300">
- <img src="https://user-images.githubusercontent.com/26748554/233776712-c20f11a0-70ac-4d74-abd7-fab94e2428dc.png" width ="250" height="300">
+<img src="https://user-images.githubusercontent.com/26748554/233776712-c20f11a0-70ac-4d74-abd7-fab94e2428dc.png" width ="250" height="300">
 </p>
 
 
@@ -43,9 +43,6 @@ ii) Shaun Job
 iii) J.Spandhan  
 
 &nbsp;
-
-### TechStacks
-i) 
 
 ##### Lets connect and have a Chat!💬
 <a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
