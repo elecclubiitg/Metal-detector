@@ -30,7 +30,7 @@ Our future objectives for this project include enhancing the detection range by 
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/26748554/234105431-d4d7a561-5d22-406a-bd36-269c3b6a3626.jpg" width ="300" height="300">
+<img src="https://user-images.githubusercontent.com/26748554/234105431-d4d7a561-5d22-406a-bd36-269c3b6a3626.jpg" width ="350" height="300">
 <img src="https://user-images.githubusercontent.com/26748554/233776712-c20f11a0-70ac-4d74-abd7-fab94e2428dc.png" width ="250" height="300">
 </p>
 
