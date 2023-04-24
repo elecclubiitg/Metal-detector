@@ -1,4 +1,4 @@
-# Metal-detector
+# Landmine-detector
 
 ## Introduction
 Colipitts oscillator uses a capacitive voltage divider to provide feedback to the transistor amplifier, producing a high-frequency EM field that's emitted from the coil in the detector. By inducing a current in a metallic object, the field causes a change in the oscillator's output frequency, which indicates metal items in your vicinity.
