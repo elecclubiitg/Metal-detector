@@ -1,8 +1,15 @@
 # Landmine-detector
 
-## Introduction
-Colipitts oscillator uses a capacitive voltage divider to provide feedback to the transistor amplifier, producing a high-frequency EM field that's emitted from the coil in the detector. By inducing a current in a metallic object, the field causes a change in the oscillator's output frequency, which indicates metal items in your vicinity.
-Designing the desired operating frequency and detection coil using a magnet wire wound inductor. Selecting the  capacitor and resistors. These will form the resonant circuit that determines the frequency of operation. Arduino is used detect frequency change and implement trigger, reset and sensitivity features. Finally converting the frequency change into audible range and testing the circuit with different metals.
+## About The Project
+Introduction :
+The project was initiated in response to a problem statement presented to our club by the army, with a request to design a rover capable of detecting and traversing over landmines without detonating them. The primary objective was to develop a lightweight and power-efficient detection sensor to be used in the rover.
+Methodology :
+A Colpitts oscillator was employed to detect the presence of metallic objects in the vicinity of the rover. The oscillator's oscillation frequency was observed to detect the change in the presence of metallic objects. We used an analog-based sensor to make the system highly energy-efficient. An Arduino microcontroller was used to detect the frequency change, which was then converted into an audible range and played through a speaker. The rover's frame was constructed using acrylic sheets to make it lightweight and robust. Additionally, a transmitter and receiver module were employed to establish communication between the controller and the rover, enabling remote control of the rover's movements and functions.
+Observations :
+The prototype can presently detect the presence of metals up to a distance of 7 cm from the coil, even with an obstruction between the coil and metal. By increasing the oscillation frequency, the sensitivity of the sensor can be improved, and the detection range can be increased. We can also detect non-ferrous materials with maximum sensitivity.
+Future Goals : 
+Our future objectives for this project include enhancing the detection range by flattening the coil, making the rover fully automatic so that it can map the area and pinpoint the location of landmines. We also aim to analyse the frequency changes to identify the type of material. Additionally, we plan to develop a more interactive user interface and utilize wireless communication capabilities for real-time monitoring and data sharing.
+
 
 <p align="center">
 
