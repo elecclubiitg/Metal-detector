@@ -38,9 +38,9 @@ Our future objectives for this project include enhancing the detection range by 
 &nbsp;
 
 ### Project veterans
-i) Hrishikesh  
+i) J.Spandhan  
 ii) Shaun Job  
-iii) J.Spandhan  
+iii) Hrishikesh  
 
 &nbsp;
 
